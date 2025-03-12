@@ -1,0 +1,44 @@
+{
+    "php.validate.executablePath": "D:\\php\\php.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "debug.onTaskErrors": "debugAnyway",
+    "workbench.startupEditor": "none",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "dart.openDevTools": "flutter",
+    "editor.fontFamily": "JetBrains Mono Regular",
+    "workbench.sideBar.location": "right",
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "always",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "extensions.ignoreRecommendations": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Dark Green",
+    "idf.pythonInstallPath": "C:\\Users\\N3rdy\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.hasWalkthroughBeenShown": true,
+    "idf.gitPathWin": "C:\\Users\\N3rdy\\.espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
+    "idf.espIdfPathWin": "C:\\Users\\N3rdy\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\N3rdy\\.espressif",
+    "editor.suggest.showWords": false,
+}

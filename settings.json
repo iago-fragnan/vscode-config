@@ -35,10 +35,5 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "workbench.colorTheme": "Dark Green",
-    "idf.pythonInstallPath": "C:\\Users\\N3rdy\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
-    "idf.hasWalkthroughBeenShown": true,
-    "idf.gitPathWin": "C:\\Users\\N3rdy\\.espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
-    "idf.espIdfPathWin": "C:\\Users\\N3rdy\\esp\\v5.4\\esp-idf",
-    "idf.toolsPathWin": "C:\\Users\\N3rdy\\.espressif",
     "editor.suggest.showWords": false,
 }

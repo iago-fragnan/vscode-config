@@ -1,5 +1,4 @@
 {
-    "php.validate.executablePath": "D:\\php\\php.exe",
     "workbench.iconTheme": "vscode-icons",
     "[php]": {
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"

@@ -3,7 +3,6 @@
     "[php]": {
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
-    "debug.onTaskErrors": "debugAnyway",
     "workbench.startupEditor": "none",
     "editor.fontFamily": "JetBrains Mono",
     "editor.lineHeight": 1.8,
@@ -14,8 +13,6 @@
     "files.autoSave": "afterDelay",
     "git.openRepositoryInParentFolders": "always",
     "editor.minimap.enabled": false,
-    "git.enableSmartCommit": true,
-    "git.confirmSync": false,
     "extensions.ignoreRecommendations": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "[vue]": {
@@ -37,7 +34,6 @@
     },
     "workbench.colorTheme": "Min Dark",
     "editor.suggest.showWords": false,
-    "git.autofetch": true,
     "chat.commandCenter.enabled": false,
     "window.menuBarVisibility": "compact",
     "workbench.navigationControl.enabled": false,

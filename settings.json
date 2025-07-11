@@ -10,7 +10,6 @@
     "workbench.sideBar.location": "right",
     "editor.scrollbar.vertical": "hidden",
     "editor.renderLineHighlight": "gutter",
-    "files.autoSave": "afterDelay",
     "git.openRepositoryInParentFolders": "always",
     "editor.minimap.enabled": false,
     "extensions.ignoreRecommendations": true,
@@ -39,4 +38,8 @@
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
+    "[scss]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "workbench.statusBar.visible": false,
 }

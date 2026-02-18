@@ -1,36 +1,20 @@
 {
     "workbench.iconTheme": "vscode-icons",
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    },
     "workbench.startupEditor": "none",
     "editor.fontFamily": "JetBrains Mono",
     "editor.lineHeight": 1.8,
     "editor.fontSize": 14,
     "workbench.sideBar.location": "right",
     "editor.scrollbar.vertical": "hidden",
-    "editor.renderLineHighlight": "gutter",
     "git.openRepositoryInParentFolders": "always",
     "editor.minimap.enabled": false,
     "extensions.ignoreRecommendations": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "[vue]": {
-        "editor.defaultFormatter": "Vue.volar"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-    },
     "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
     },
-    "[typescript]": {
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-    },
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "workbench.colorTheme": "Min Dark",
     "editor.suggest.showWords": false,
     "chat.commandCenter.enabled": false,
@@ -38,8 +22,5 @@
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
-    "[scss]": {
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-    },
     "workbench.statusBar.visible": false,
 }
